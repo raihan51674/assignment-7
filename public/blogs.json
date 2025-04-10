@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone",
+    "description": "Brand new iPhone 14 Pro, 256GB, Deep Purple. Factory unlocked.",
+    "currentBidPrice": 980.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co.com/bg3Zq1pg/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "Dell XPS 13 Laptop",
+    "description": "13-inch laptop with Intel i7, 16GB RAM, 512GB SSD. Lightly used.",
+    "currentBidPrice": 750.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/CpmHcYhw/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Sony Headphones",
+    "description": "Noise-cancelling over-ear headphones with premium sound and battery life.",
+    "currentBidPrice": 270.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/TB2hZ8Fc/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "LEGO Star Falcon",
+    "description": "Ultimate Collector’s Series Millennium Falcon (7541 pieces). Brand new in box.",
+    "currentBidPrice": 650.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/gMmzymc3/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "Rolex Watch",
+    "description": "Rare 1970s Rolex Submariner, excellent condition with original box.",
+    "currentBidPrice": 5400.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 33,
+    "image": "https://i.ibb.co.com/SDtGPmM3/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Canon Camera",
+    "description": "Full-frame mirrorless camera with 20MP sensor and 4K video. Barely used.",
+    "currentBidPrice": 1700.00,
+    "timeLeft": "2 Days left",
+    "bidsCount": 16,
+    "image": "https://i.ibb.co.com/DHBc7k6c/Bid6-min.png"
+  }
+]
