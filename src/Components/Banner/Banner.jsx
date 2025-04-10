@@ -1,11 +1,13 @@
 import React from "react";
+import bannerImg from "../../../assets/Banner-min.jpg";
+
 
 const Banner = () => {
   return (
     <div className="relative w-full h-[500px]">
       {/* Background image */}
       <img
-        src="../../../assets/Banner-min.jpg"
+        src={bannerImg}
         alt="Auction"
         className="absolute w-full h-full object-cover"
       />

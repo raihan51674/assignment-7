@@ -9,6 +9,7 @@ const Blogs = ({ handleLoveIcon, handleTotalPrice }) => {
 
   useEffect(() => {
     fetch("blogs.json")
+    
       .then((res) => res.json())
       .then((data) => setBlogs(data));
   }, []);
